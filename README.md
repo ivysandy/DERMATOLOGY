@@ -1,17 +1,18 @@
+# iMagnum Healthcare Dermatology Billing Services
 
-### Example of a Documentation File (`docs/overview.md`)
+## Overview
 
-```markdown
-# Dermatology Billing Services Overview
+This repository provides tools and documentation for dermatology billing services offered by iMagnum Healthcare in Green Valley Lake, San Bernardino, California. It includes modules for billing analysis, claim submission, report generation, and compliance checks.
 
-## About Our Services
+## Directory Structure
 
-Imagnum Healthcare specializes in dermatology billing services, offering comprehensive solutions to ensure accurate coding, efficient claims management, and detailed practice management reporting.
+- `docs/`: Contains detailed documentation on the billing process, coding guidelines, claims management, and reporting.
+- `src/`: Python scripts for billing analysis, claim submission, report generation, and compliance checks.
+- `tests/`: Unit tests for the scripts in `src/`.
+- `requirements.txt`: Python dependencies.
 
-## Key Features
+## Getting Started
 
-1. **Accurate CPT Coding**: Ensuring correct coding for all dermatology procedures.
-2. **Effective Claims Management**: Optimizing claims submission and follow-up.
-3. **Detailed Reporting**: Providing 24/7 access to financial data and practice management reports.
-
-Our services aim to reduce the administrative burden on dermatology practices while maximizing reimbursement rates.
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/yourusername/imagnum-dermatology-billing.git
